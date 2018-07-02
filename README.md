@@ -23,7 +23,7 @@ This repo contains a folder called `site`, which, in turn, contains some starter
 3. `site/css/reset.css`
 4. `site/css/style.css`
 5. `site/index.html`
-6. `site/img`
+6. `site/img/`
 
 ## The Rules
 * Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
