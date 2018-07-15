@@ -95,14 +95,11 @@ h3{
 }
 
 section:nth-child(2)>div:nth-child(1){
-   margin-top:5px;
-   /* margin-left:100px;
-   margin-right:100px; */
-   height: 400px;
+   margin-top:200px;
+   height: 900px;
    background:url('../img/GD-BG.jpg') no-repeat fixed;
-   background-size: 800px;
-   background-position:240px 120px;
    align-items: center;
+   background-size: 900px;
 }
 
 section:nth-child(2)>div:nth-child(1) p{
