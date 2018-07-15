@@ -1,0 +1,19 @@
+section:nth-child(1){
+   background:url('../img/shelving-system.jpg') no-repeat fixed;
+   background-size: 650px;
+   background-position:250px 130px;
+}
+
+section:nth-child(1) img{
+   margin: 100px;
+   margin-left: 220px;
+   border-style: dotted;
+   border-width: 10px;
+   border-color:rgb(221,217,211); ;
+   padding: 20px;
+}
+
+section:nth-child(2) img{
+   margin: 100px;
+   margin-left: 220px;
+}
