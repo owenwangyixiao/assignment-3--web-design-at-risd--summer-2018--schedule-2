@@ -131,11 +131,6 @@ section:nth-child(3){
    margin-top: 0px;
 }
 
-.position-h1{
-   position: absolute;
-   top: 2585px;
-   margin: 0 0 0 200px;
-}
 h5{
    font-size: 30rem;
    font-family: 'quicksand', sans-serif;
@@ -143,6 +138,12 @@ h5{
    font-weight: 400;
    padding: 100px;
    margin-top:20px;
+}
+
+.position-h1{
+   position: absolute;
+   top: 2520px;
+   margin: 0 0 0 200px;
 }
 
 section:nth-child(3) div:nth-child(odd) p{
@@ -154,7 +155,7 @@ section:nth-child(3) div:nth-child(odd) p{
 
 .position-p1{
   position: absolute;
-  top: 2800px;
+  top: 2730px;
   left: 30px;
   margin: 0 300px 0 600px;
   line-height: 1.2;
@@ -162,4 +163,8 @@ section:nth-child(3) div:nth-child(odd) p{
   border-bottom-width: 10px;
   padding-bottom: 20px;
   border-bottom-color:white;
+}
+
+span{
+   font-weight: 900;
 }
