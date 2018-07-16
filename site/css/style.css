@@ -153,6 +153,13 @@ section:nth-child(3) div:nth-child(odd) p{
    font-family: 'quicksand', sans-serif;
 }
 
+section:nth-child(3) div:nth-child(even) p{
+   position: absolute;
+   font-size: 2rem;
+   color: red;
+   font-family: 'quicksand', sans-serif;
+}
+
 .position-p1{
   position: absolute;
   top: 2730px;
@@ -167,4 +174,23 @@ section:nth-child(3) div:nth-child(odd) p{
 
 span{
    font-weight: 900;
+}
+
+.position-h2{
+   position: absolute;
+   top: 3120px;
+   margin: 0 0 0 1050px;
+   color: red;
+}
+
+.position-p2{
+  position: absolute;
+  top: 3370px;
+  left: 30px;
+  margin: 0 600px 0 300px;
+  line-height: 1.2;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  padding-bottom: 20px;
+  border-bottom-color:red;
 }
