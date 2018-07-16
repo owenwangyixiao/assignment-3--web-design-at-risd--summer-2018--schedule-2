@@ -85,12 +85,12 @@ div:nth-of-type(2) span{
    letter-spacing: 3.8px;
 }
 
-h3{
+/* h3{
    border-bottom-style: dotted;
    border-bottom-width: 10px;
    border-bottom-color:red ;
    margin-top: 192px;
-}
+} */
 
 section:nth-child(2)>div:nth-child(1){
    height: 400px;
@@ -125,5 +125,41 @@ section:nth-child(2)>div:nth-child(1) h4{
 }
 
 section:nth-child(3){
-   height:2000px;
+   margin-top: 100px;
+   height:7000px;
+   background: linear-gradient(to top, red,white,red,white,red,white,red,white,red,white,red,white);
+   margin-top: 0px;
+}
+
+.position-h1{
+   position: absolute;
+   top: 2585px;
+   margin: 0 0 0 200px;
+}
+h5{
+   font-size: 30rem;
+   font-family: 'quicksand', sans-serif;
+   color: white;
+   font-weight: 400;
+   padding: 100px;
+   margin-top:20px;
+}
+
+section:nth-child(3) div:nth-child(odd) p{
+   position: absolute;
+   font-size: 2rem;
+   color: white;
+   font-family: 'quicksand', sans-serif;
+}
+
+.position-p1{
+  position: absolute;
+  top: 2800px;
+  left: 30px;
+  margin: 0 300px 0 600px;
+  line-height: 1.2;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  padding-bottom: 20px;
+  border-bottom-color:white;
 }
