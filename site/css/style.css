@@ -292,3 +292,57 @@ span{
   padding-bottom: 20px;
   border-bottom-color:white;
 }
+
+.position-h8{
+   position: absolute;
+   top: 6950px;
+   margin: 0 0 0 1050px;
+}
+
+.position-p8{
+  position: absolute;
+  top: 7240px;
+  left: 30px;
+  margin: 0 600px 0 300px;
+  line-height: 1.2;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  padding-bottom: 20px;
+  border-bottom-color:red;
+}
+
+.position-h9{
+   position: absolute;
+   top: 7550px;
+   margin: 0 0 0 200px;
+}
+
+.position-p9{
+  position: absolute;
+  top: 7800px;
+  left: 30px;
+  margin: 0 300px 0 600px;
+  line-height: 1.2;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  padding-bottom: 20px;
+  border-bottom-color:white;
+}
+
+.position-h10{
+   position: absolute;
+   top: 8170px;
+   margin: 0 0 0 1050px;
+}
+
+.position-p10{
+  position: absolute;
+  top: 8470px;
+  left: 30px;
+  margin: 0 600px 0 300px;
+  line-height: 1.2;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  padding-bottom: 20px;
+  border-bottom-color:red;
+}
