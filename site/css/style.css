@@ -1,6 +1,4 @@
-section {
-   height: 1800px;
-}
+
 section:nth-child(1){
    background:url('../img/shelving-system.jpg') no-repeat fixed;
    background-size: 650px;
@@ -98,22 +96,34 @@ section:nth-child(2)>div:nth-child(1){
    height: 400px;
    background:url('../img/GD-BG.jpg') no-repeat fixed 50% 50% / cover;
    align-items: center;
-   background-size: 1300px;
+   background-size: 1190px;
 }
 
 section:nth-child(2)>div:nth-child(1) p{
-   font-size: 5rem;
+   font-size: 4.5rem;
    font-weight: 500;
    font-family: 'quicksand', sans-serif;
-   color: rgb(234,234,232);
+   color: white;
    padding-top: 140px;
-   padding-left:364px;
+   padding-left:394px;
    margin-top:200px;
    margin-left:200px;
+   position: sticky;
+   top: 90px;
 }
 
+section:nth-child(2)>div:nth-child(1) h4{
+   border-style: dotted;
+   border-width: 10px;
+   border-color:red ;
+   margin-top:-232px;
+   margin-right: 225px;
+   margin-left: 225px;
+   padding-top: 200px;
+   padding-bottom: 220px;
+   text-align: center;
+}
 
-/* border-style: dotted;
-border-width: 10px;
-border-color:red ;
-padding: 10px; */
+section:nth-child(3){
+   height:2000px;
+}
