@@ -359,33 +359,36 @@ div:nth-of-type(2) span{
 } */
 
 .top{
-     height:70px;
-     width:140px;
-     border-radius: 90px 90px 0 0;
-     background:green;
-     margin: auto;
-}
-
-nav{
-   height:3000px;
-}
-
-nav ul {
-   list-style: none;
-   text-align: center;
-   font-size: 1.2rem;
-   font-family: 'quicksand', sans-serif;
-   font-weight: 500;
+   height:90px;
+   width:110px;
+   border-radius: 0 90px 90px 0;
+   border-right:10px dotted rgb(226,226,226);
+   border-top:10px dotted rgb(226,226,226);
+   border-bottom:10px dotted rgb(226,226,226);
+   margin: 40px 40px 40px 0;
+   background-color:rgba(255,255,255,0);
    /* position: fixed; */
 }
 
+/* nav{
+   height:3000px;
+} */
+
+nav ul {
+   top: 370px;
+   list-style: none;
+   font-size: 1.2rem;
+   font-family: 'quicksand', sans-serif;
+   font-weight: 500;
+   position: fixed;
+}
+
 nav ul li {
-   background-color: #705EF7;
-   display: inline-block;
-   text-align: center;
+   background-color: white;
+   /* display: inline-block; */
 }
 
 nav ul li a {
-   padding-top: 40px;
+   padding: 40px 0 40px 10px;
    display:block;
 }
