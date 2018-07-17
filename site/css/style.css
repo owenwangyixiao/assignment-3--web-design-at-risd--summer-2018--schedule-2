@@ -122,8 +122,8 @@ section:nth-child(2)>div:nth-child(1) h4{
    border-width: 10px;
    border-color:red ;
    margin-top:-232px;
-   margin-right: 225px;
-   margin-left: 225px;
+   margin-right: 210px;
+   margin-left: 239px;
    padding-top: 200px;
    padding-bottom: 220px;
    text-align: center;
@@ -350,4 +350,29 @@ span{
   border-bottom-width: 10px;
   padding-bottom: 20px;
   border-bottom-color:red;
+}
+
+.top{
+     height:70px;
+     width:140px;
+     border-radius: 90px 90px 0 0;
+     background:red;
+     margin: auto;
+}
+
+nav ul {
+   list-style: none;
+   text-align: center;
+   font-size: 1.2rem;
+}
+
+nav ul li {
+   background-color: #705EF7;
+   display: inline-block;
+   text-align: center;
+}
+
+nav ul li a {
+   padding: 30px;
+   display:block;
 }
