@@ -84,10 +84,6 @@ div:nth-of-type(2) h1{
    /* problem here!! */
 }
 
-div:nth-of-type(2) span{
-   margin-right:9px;
-   letter-spacing: 3.8px;
-}
 
 /* h3{
    border-bottom-style: dotted;
@@ -188,6 +184,12 @@ section:nth-child(3) div:nth-child(even) p{
 span{
    font-weight:900;
    letter-spacing: 1px;
+}
+
+div:nth-of-type(2) span{
+   font-weight: 500;
+   margin-right:9px;
+   letter-spacing: 3.8px;
 }
 
 .position-h2{
@@ -352,6 +354,10 @@ span{
   border-bottom-color:red;
 }
 
+/* span:nth-child(1){
+   font-weight: 200;
+} */
+
 .top{
      height:70px;
      width:140px;
@@ -360,9 +366,9 @@ span{
      margin: auto;
 }
 
-/* section:nth-child(4){
+nav{
    height:3000px;
-} */
+}
 
 nav ul {
    list-style: none;
