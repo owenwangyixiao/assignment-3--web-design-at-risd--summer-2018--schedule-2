@@ -1,0 +1,31 @@
+a {
+   /* transition: cubic-bezier(.79,.04,.99,.24) 666ms;
+   border: 3px solid transparent; */
+   color:rgb(200,200,200);
+   /* -webkit-text-stroke: 0.5px red; */
+   /* text-shadow: 10px 2px 2px #FF0000; */
+
+}
+
+a:link {
+   text-decoration: none;
+   /* color: red; */
+}
+
+a:visited {
+   /* color: #fff; */
+}
+
+a:hover {
+   text-decoration:rgb(200,200,200)  underline;
+   /* background-color: white;
+   color: black; */
+}
+
+a:active {
+   font-style: italic;
+}
+
+.home{
+
+}
