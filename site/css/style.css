@@ -1,8 +1,9 @@
 
 section:nth-child(1){
    background:url('../img/shelving-system.jpg') no-repeat fixed;
+   margin-top:100px;
    background-size: 650px;
-   background-position:240px 120px;
+   background-position:240px 220px;
 }
 
 #first-image {
@@ -155,7 +156,7 @@ section:nth-child(3) div:nth-child(even) h5{
 
 .position-h1{
    position: absolute;
-   top: 2520px;
+   top: 2570px;
    margin: 0 0 0 200px;
 }
 
@@ -175,7 +176,7 @@ section:nth-child(3) div:nth-child(even) p{
 
 .position-p1{
   position: absolute;
-  top: 2730px;
+  top: 2810px;
   left: 30px;
   margin: 0 300px 0 600px;
   line-height: 1.2;
@@ -186,19 +187,18 @@ section:nth-child(3) div:nth-child(even) p{
 }
 
 span{
-   font-weight: 900;
    letter-spacing: 1px;
 }
 
 .position-h2{
    position: absolute;
-   top: 3120px;
+   top: 3200px;
    margin: 0 0 0 1050px;
 }
 
 .position-p2{
   position: absolute;
-  top: 3370px;
+  top: 3450px;
   left: 30px;
   margin: 0 600px 0 300px;
   line-height: 1.2;
@@ -210,13 +210,13 @@ span{
 
 .position-h3{
    position: absolute;
-   top: 3770px;
+   top: 3850px;
    margin: 0 0 0 200px;
 }
 
 .position-p3{
   position: absolute;
-  top: 4040px;
+  top: 4120px;
   left: 30px;
   margin: 0 300px 0 600px;
   line-height: 1.2;
@@ -228,13 +228,13 @@ span{
 
 .position-h4{
    position: absolute;
-   top: 4400px;
+   top: 4480px;
    margin: 0 0 0 1050px;
 }
 
 .position-p4{
   position: absolute;
-  top: 4687px;
+  top: 4767px;
   left: 30px;
   margin: 0 600px 0 300px;
   line-height: 1.2;
@@ -246,13 +246,13 @@ span{
 
 .position-h5{
    position: absolute;
-   top: 5000px;
+   top: 5080px;
    margin: 0 0 0 200px;
 }
 
 .position-p5{
   position: absolute;
-  top: 5270px;
+  top: 5350px;
   left: 30px;
   margin: 0 300px 0 600px;
   line-height: 1.2;
@@ -264,13 +264,13 @@ span{
 
 .position-h6{
    position: absolute;
-   top: 5670px;
+   top: 5750px;
    margin: 0 0 0 1050px;
 }
 
 .position-p6{
   position: absolute;
-  top: 5950px;
+  top: 6030px;
   left: 30px;
   margin: 0 600px 0 300px;
   line-height: 1.2;
@@ -282,13 +282,13 @@ span{
 
 .position-h7{
    position: absolute;
-   top: 6280px;
+   top: 6360px;
    margin: 0 0 0 200px;
 }
 
 .position-p7{
   position: absolute;
-  top: 6560px;
+  top: 6640px;
   left: 30px;
   margin: 0 300px 0 600px;
   line-height: 1.2;
@@ -300,13 +300,13 @@ span{
 
 .position-h8{
    position: absolute;
-   top: 6950px;
+   top: 7020px;
    margin: 0 0 0 1050px;
 }
 
 .position-p8{
   position: absolute;
-  top: 7240px;
+  top: 7320px;
   left: 30px;
   margin: 0 600px 0 300px;
   line-height: 1.2;
@@ -318,13 +318,13 @@ span{
 
 .position-h9{
    position: absolute;
-   top: 7550px;
+   top: 7620px;
    margin: 0 0 0 200px;
 }
 
 .position-p9{
   position: absolute;
-  top: 7800px;
+  top: 7880px;
   left: 30px;
   margin: 0 300px 0 600px;
   line-height: 1.2;
@@ -336,13 +336,13 @@ span{
 
 .position-h10{
    position: absolute;
-   top: 8170px;
+   top: 8250px;
    margin: 0 0 0 1050px;
 }
 
 .position-p10{
   position: absolute;
-  top: 8470px;
+  top: 8550px;
   left: 30px;
   margin: 0 600px 0 300px;
   line-height: 1.2;
