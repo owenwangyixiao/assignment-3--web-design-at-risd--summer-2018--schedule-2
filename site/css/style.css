@@ -30,7 +30,6 @@ section:nth-child(1){
    height: 10px;
    margin-left: 1007px;
    margin-top: 18px;
-
 }
 
 #first-image h1:nth-of-type(1) {
@@ -360,7 +359,7 @@ div:nth-of-type(2) span{
 
 .top{
    height:90px;
-   width:120px;
+   width:110px;
    border-radius: 0 90px 90px 0;
    border-right:10px dotted rgb(200,200,200);
    border-top:10px dotted rgb(200,200,200);
