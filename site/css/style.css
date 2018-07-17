@@ -178,7 +178,7 @@ section:nth-child(3) div:nth-child(even) p{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:white;
+  border-bottom-color:rgb(200,200,200);
 }
 
 span{
@@ -207,7 +207,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:red;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h3{
@@ -225,7 +225,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:white;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h4{
@@ -243,7 +243,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:red;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h5{
@@ -261,7 +261,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:white;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h6{
@@ -279,7 +279,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:red;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h7{
@@ -297,7 +297,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:white;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h8{
@@ -315,7 +315,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:red;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h9{
@@ -333,7 +333,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:white;
+  border-bottom-color:rgb(200,200,200);
 }
 
 .position-h10{
@@ -351,7 +351,7 @@ div:nth-of-type(2) span{
   border-bottom-style: dotted;
   border-bottom-width: 10px;
   padding-bottom: 20px;
-  border-bottom-color:red;
+  border-bottom-color:rgb(200,200,200);
 }
 
 /* span:nth-child(1){
@@ -360,11 +360,11 @@ div:nth-of-type(2) span{
 
 .top{
    height:90px;
-   width:110px;
+   width:120px;
    border-radius: 0 90px 90px 0;
-   border-right:10px dotted rgb(226,226,226);
-   border-top:10px dotted rgb(226,226,226);
-   border-bottom:10px dotted rgb(226,226,226);
+   border-right:10px dotted rgb(200,200,200);
+   border-top:10px dotted rgb(200,200,200);
+   border-bottom:10px dotted rgb(200,200,200);
    margin: 40px 40px 40px 0;
    background-color:rgba(255,255,255,0);
    /* position: fixed; */
@@ -378,7 +378,6 @@ nav ul {
    top: 370px;
    list-style: none;
    font-size: 1.2rem;
-   font-family: 'quicksand', sans-serif;
    font-weight: 500;
    position: fixed;
 }
@@ -389,6 +388,7 @@ nav ul li {
 }
 
 nav ul li a {
-   padding: 40px 0 40px 10px;
+   padding: 35px 0 70px 10px;
    display:block;
+   font-family: 'quicksand', sans-serif;
 }
